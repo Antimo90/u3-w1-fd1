@@ -1,8 +1,8 @@
-// src/components/Account.jsx
+
 import React from "react";
 import { Container, Row, Col, Card, Button, ListGroup } from "react-bootstrap";
-import MyNav from "./MyNav"; // Assicurati che il percorso sia corretto
-import MyFooter from "./MyFooter"; // Assicurati che il percorso sia corretto
+import MyNav from "./MyNav"; 
+import MyFooter from "./MyFooter"; 
 
 const Account = () => {
   return (

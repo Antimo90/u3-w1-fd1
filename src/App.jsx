@@ -3,6 +3,9 @@ import Gallery from "./components/Gallery";
 import MyFooter from "./components/MyFooter";
 import MyNav from "./components/MyNav";
 import MyTitle from "./components/MyTitle";
+import Account from "./components/Account";
+import Settings from "./components/Settings";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
